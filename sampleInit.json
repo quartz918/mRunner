@@ -1,0 +1,20 @@
+{
+  "labels": [
+    "Fagus sylvatica",
+    "Robinia pseudoacacia",
+    "Cupressus sempervirens",
+    "Platanus orientalis",
+    "Juglans regia",
+    "Castanea sativa",
+    "Quercus cerris",
+    "Alnus glutinosa",
+    "Fraxinus ornus",
+    "Picea abies",
+    "Pinus sylvestris",
+    "Ailanthus altissima"
+  ],
+  "mean": 0,
+  "stddev": 255,
+  "quanscale": 1,
+  "quantzeropoint": 0
+}
